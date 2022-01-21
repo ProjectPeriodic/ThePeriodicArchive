@@ -55,9 +55,11 @@
 - Before contributing to the archive, make sure the project you are adding isn't already in the archive.
 - Also, make sure that you aren't overriding an already contributed project on accident. Keep your commits inside the project folder!
 
-### Don't contribute closed-source programs.
-- The purpose of the archive is for people to learn off of open-sourced projects, not use your simple lobby simulator for 10 minutes.
-- This rule also applies to custom paks/mods. Please upload the UE4 project files.
+### Try to not contribute closed-source programs.
+- The main purpose of the archive is for people to learn off of open-sourced projects.
+- Currently, the only closed-source programs we accept are major well-known ones, such as Rift and ERA.
+  - However, this will go on a case-by-case basis.
+- This rule also applies to custom paks/mods. If you can, please upload the UE4 project files.
 
 ### Don't attempt to nuke the repository.
 - Like seriously, we can just deny your pull request. It's not that hard.
